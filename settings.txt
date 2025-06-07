@@ -1,0 +1,12 @@
+[settings]
+default_model = elix.ai
+system_prompt_file = system_prompt.txt
+
+[public_models]
+gemma3:4b-it-fp16 = elix.ai
+gemma3:1b = elix3mini
+gemma3:12b = elix.max
+llava:13b = эликс_фото
+qwen2.5-coder:14b = elix.coder
+deepseek-r1:8b = elix.think
+mistral:latest = elix.mistral
